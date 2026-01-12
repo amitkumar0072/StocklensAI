@@ -1,5 +1,5 @@
 {
-  "name": "stock-analyst-chatgpt",
+  "name": "stocklens-ai",
   "version": "1.0.0",
   "description": "Stock Analyst ChatGPT System",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "chatgpt",
     "analysis"
   ],
-  "author": "Vikram Singh",
+  "author": "Amit Kumar",
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^8.2.0"
