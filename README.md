@@ -353,9 +353,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Vikram Singh**
+AMIT KUMAR
 
-- GitHub: [@vikramgurjar2](https://github.com/vikramgurjar2)
+- GitHub: https://github.com/amitkumar0072/
 
 ## 🙏 Acknowledgments
 
